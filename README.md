@@ -1,16 +1,13 @@
-## Hi there 👋
+### Hello, there.
 
-<!--
-**s-hammon/s-hammon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+R&D tech turned safety specialist turned data analyst turned data engineer/backend dev.
 
-Here are some ideas to get you started:
+* 🐍 Python 5 years
+* 🛢️ SQL 5 years
+* 🐳 Docker 2 years
+* 🐹 Go < 1 year
+* ☁️ Budding GCP enthusiast
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Interested in machine learning, BI, and automation.
+
+I am turning into a Gopher.
